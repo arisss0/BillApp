@@ -106,7 +106,7 @@ const BillApp = () => {
                         fullWidth
                     />
                     </Box>
-                    <FormControl fullWidth sx={{ marginBottom: 2 }}>
+                    <FormControl fullWidth sx={{ margin: '20px 0px' }}>
                         <InputLabel>Select Categories</InputLabel>
                         <Select
                             multiple
